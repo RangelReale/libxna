@@ -48,6 +48,7 @@
 
 #include <algorithm>	// std::copy_n, std::fill_n
 #include <string>
+#include <functional>
 
 #include "xna_exception.hpp"
 

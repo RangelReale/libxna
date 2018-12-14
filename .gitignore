@@ -6,3 +6,4 @@ CppCheckResults.xml
 # compiled stuff
 bin
 obj
+/build
